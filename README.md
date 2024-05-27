@@ -1,4 +1,4 @@
 # my-project
 
-<p>hellow world</p>
-<p>hellow world</p>
+<p>hello world</p>
+<p>hello world</p>
